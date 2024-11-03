@@ -42,37 +42,18 @@ python app.py
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1280" alt="readme-banner" src="[https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c](https://github.com/Jame81/uselessproject/blob/main/User%20interface.jpg?raw=true)">
+<img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/User%20interface.jpg?raw=true">
 The main interface of WEIRDO ME with the text area.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/Download%20Prompt.jpg?raw=true">
+A file download prompt after saving jumbled text.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/Output.jpg?raw=true">
+The jumbled text output displayed in the notepad.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/Workflow%20Diagram.jpg?raw=true">
+Overview of how the text jumbler processes input and outputs the jumbled text.
 
 ### Project Demo
 # Video
@@ -83,9 +64,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Olivia Mary James: Designed the UI and implemented the text jumbling logic.
+- Ashbin K George: Developed the backend using Flask and integrated the text file upload/download functionality.
+- Merin Sara Mathew: Created the graphics and animations to enhance the user experience.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

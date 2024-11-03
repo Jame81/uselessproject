@@ -42,8 +42,8 @@ python app.py
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1280" alt="readme-banner" src="[https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c](https://github.com/Jame81/uselessproject/blob/main/User%20interface.jpg?raw=true)">
+The main interface of WEIRDO ME with the text area.
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*

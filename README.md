@@ -45,11 +45,14 @@ For Software:
 <img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/User%20interface.jpg?raw=true">
 The main interface of WEIRDO ME with the text area.
 
+
 <img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/Download%20Prompt.jpg?raw=true">
 A file download prompt after saving jumbled text.
 
+
 <img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/Output.jpg?raw=true">
 The jumbled text output displayed in the notepad.
+
 
 # Diagrams
 <img width="1280" alt="readme-banner" src="https://github.com/Jame81/uselessproject/blob/main/Workflow%20Diagram.jpg?raw=true">

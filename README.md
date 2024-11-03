@@ -63,9 +63,6 @@ Overview of how the text jumbler processes input and outputs the jumbled text.
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
 - Olivia Mary James: Designed the UI and implemented the text jumbling logic.
 - Ashbin K George: Developed the backend using Flask and integrated the text file upload/download functionality.

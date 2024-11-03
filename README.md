@@ -60,8 +60,8 @@ Overview of how the text jumbler processes input and outputs the jumbled text.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+(https://drive.google.com/file/d/1zDp9xJuAkILAwnVu178jlenL66DLn2RN/view?usp=sharing)
+The demo video shows a user typing text into the app, saving it as a .txt file, and then opening it to reveal scrambled words. This illustrates the core function of "WEIRDO ME - Text Jumbler" in transforming standard text into a playful, randomized format.
 
 ## Team Contributions
 - Olivia Mary James: Designed the UI and implemented the text jumbling logic.
